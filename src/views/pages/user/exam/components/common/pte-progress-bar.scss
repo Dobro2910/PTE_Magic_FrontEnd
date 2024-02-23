@@ -1,0 +1,21 @@
+.shell {
+  float: left;
+  height: 20px;
+  width: 250px;
+  border: 1px solid #aaa;
+  border-radius: 13px;
+  padding: 3px;
+}
+
+.bar {
+  background: linear-gradient(to right, lighten(#7b4397, 10%), lighten(#dc2430, 10%));
+  height: 13px;
+  width: 15px;
+  border-radius: 9px;
+  span {
+    float: right;
+    padding: 0px;
+    color: #fff;
+    font-size: 0.7em;
+  }
+}

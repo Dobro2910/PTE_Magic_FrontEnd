@@ -1,0 +1,68 @@
+.pte-fb-container {
+  margin: 16px 0;
+  background: #fff;
+  border: #eee solid 1px;
+  .pte-fb-header {
+    padding: 16px;
+    border-bottom: #eee solid 1px;
+    h3 {
+      margin: 0;
+      font-size: 26px;
+      line-height: 28px;
+      margin-bottom: 8px;
+    }
+    p {
+      margin: 0;
+      font-size: 14px;
+      line-height: 22px;
+      font-weight: 400;
+    }
+  }
+  .pte-fb-body {
+    padding: 16px;
+    .fb-text-question {
+      font-size: 16px;
+      margin: 0;
+      font-weight: 600;
+      margin-bottom: 8px;
+    }
+  }
+  .custom-checkbox .custom-control-label::before {
+    border-radius: 0;
+  }
+  .btn-feedback {
+    padding: 8px 24px;
+    border-radius: 30px;
+  }
+  .grid-souverirs{
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 16px;
+    max-width: 600px;
+    margin: 16px auto;
+  }
+  .fb-gift-title{
+    text-align: center;
+    font-size: 26px;
+    font-weight: 400;
+    margin-bottom: 16px;
+  }
+  .gift-item{
+    text-align: center;
+    background: #fc0;
+    border-radius: 10px;
+    border: #333 dashed 2px;
+    padding: 8px;
+    cursor: pointer;
+    p{
+      margin: 0;
+      font-weight: 400;
+    }
+    img{
+      width: 80px;
+    }
+  }
+  .gift-item:hover{
+    box-shadow: 0 8px 14px #dbdad7, 0 8px 6px #dbdad7;
+  }
+}

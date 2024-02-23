@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>pictogram/64/pictogramForeignCurrency64</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DDL-CBA---Pictograms" transform="translate(-1903.000000, -1280.000000)">
+            <g id="Labels" transform="translate(1138.000000, 388.000000)"></g>
+        </g>
+        <g id="pictogram/64/pictogramForeignCurrency64">
+            <rect id="Bounding-Box" x="0" y="0" width="64" height="64"></rect>
+            <g id="pictogram" transform="translate(6.000000, 8.000000)" stroke="#4F4C4D" stroke-width="2">
+                <g id="Yen-Coin" transform="translate(0.000000, 23.000000)">
+                    <circle id="Focus" fill="#FFCC00" cx="13" cy="13" r="13"></circle>
+                    <g id="F" transform="translate(8.000000, 7.000000)" stroke-linecap="square">
+                        <path d="M8,11 L0,11 C0.911884986,11 1.7374076,10.6391492 2.33483197,10.0562365 C2.93225634,9.47332372 3.30209048,8.66785328 3.30209048,7.77811824 C3.30209048,6.8883832 2.93225634,6.08291276 2.33483197,5.5 C1.7374076,4.91708724 1.36757347,4.1116168 1.36757347,3.22188176 C1.36757347,2.33214672 1.7374076,1.52667628 2.33483197,0.943267844 C2.93225634,0.360355083 3.75777896,3.01980663e-14 4.66966395,3.01980663e-14 C5.58154893,3.01980663e-14 6.40707155,0.360355083 7.00449592,0.943267844 C7.60192029,1.52667628 7.97175443,2.33214672 7.97175443,3.22188176" id="Pound"></path>
+                        <path d="M1,6 L6,6" id="Arm"></path>
+                    </g>
+                </g>
+                <g id="Pound-coin" transform="translate(13.000000, 0.000000)">
+                    <circle fill="#FFFFFF" cx="13" cy="13" r="13"></circle>
+                    <g id="¥" transform="translate(9.000000, 6.384615)" stroke-linecap="square">
+                        <path d="M4,11.6153846 L4,4.61538462" id="Arm"></path>
+                        <path d="M2,6.61538462 L6,6.61538462" id="Stem-2"></path>
+                        <path d="M2,9.61538462 L6,9.61538462" id="Stem-1"></path>
+                        <polyline id="V" points="8 0.615384615 4 4.61538462 0 0.615384615"></polyline>
+                    </g>
+                </g>
+                <g id="Euro-coin" transform="translate(26.000000, 23.000000)">
+                    <circle id="Oval" fill="#FFFFFF" cx="13" cy="13" r="13"></circle>
+                    <g id="Euro" transform="translate(9.000000, 8.000000)" stroke-linecap="square">
+                        <path d="M0,4 L4,4" id="Stem-2"></path>
+                        <path d="M0,7 L4,7" id="Stem-1"></path>
+                        <path d="M6,11 L4.49804688,11 C2.56505025,11 0.99206543,9.74799151 0.99206543,8 L1,3 C1,1.25136255 2.56849523,-2.10942375e-14 4.49755859,-2.10942375e-14 L6,-2.10942375e-14" id="Arm"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

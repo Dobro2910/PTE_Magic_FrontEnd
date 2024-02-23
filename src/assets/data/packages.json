@@ -1,0 +1,52 @@
+[
+    {
+        "id" : 1,
+        "name" : "Pack Access 90 days",
+        "group": "subscription",
+        "cost" : "119 AUD",
+        "unit" : "days",
+        "expired" : "90",
+        "description" : ["15 AI scoring/day", "3 Mock Test with Scoring", "Fully Access Question Bank", "Fully Access Real Repeated Questions"],
+        "tags" : ["HOT"]
+    },
+    {
+        "id" : 2,
+        "name" : "Pack Access 30 days",
+        "group": "subscription",
+        "cost" : "59 AUD",
+        "unit" : "days",
+        "expired" : "30",
+        "description" : ["10 AI scoring/day", "1 Mock Test with Scoring", "Fully Access Question Bank", "Fully Access Real Repeated Questions"],
+        "tags" : ["HOT"]
+    },
+    {
+        "id" : 3,
+        "name" : "Mock Test",
+        "group": "mock-test",
+        "cost" : "25 AUD",
+        "unit" : "times",
+        "expired" : "1",
+        "description" : ["1 Mock Test", "1 Scoring"],
+        "tags" : ["NEW"]
+    },
+    {
+        "id" : 4,
+        "name" : "AI Scoring #1",
+        "group": "ai-scoring",
+        "cost" : "1.99 AUD",
+        "unit" : "times",
+        "expired" : "20",
+        "description" : ["20 requests"],
+        "tags" : ["NEW"]
+    },
+    {
+        "id" : 5,
+        "name" : "AI Scoring #2",
+        "group": "ai-scoring",
+        "cost" : "4.99 AUD",
+        "unit" : "times",
+        "expired" : "50",
+        "description" : ["50 requests"],
+        "tags" : ["NEW"]
+    }
+]

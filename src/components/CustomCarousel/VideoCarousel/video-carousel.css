@@ -1,0 +1,29 @@
+.rec.rec-pagination {
+  position: relative !important;
+  bottom: 5px !important;
+}
+.rec.rec-dot {
+    background: rgb(172, 171, 171)!important;
+    border-radius: 50% !important;
+    box-shadow: unset !important;
+    height: 8px !important;
+    width: 8px !important;
+    margin: 5px 4px !important;
+
+}
+.rec.rec-dot:hover, .rec.rec-dot:focus{
+  background: #000 !important;
+  box-shadow: unset !important;
+}
+.rec.rec-dot_active {
+  background: #000 !important;
+  border: unset;
+  border-radius: 20px;
+  height: 8px !important;
+  width: 30px;
+  box-shadow: unset
+}
+
+.iDfeOS {
+  margin: 0 0 !important
+}

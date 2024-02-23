@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>HomeInsurance64</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M14.3841311,28.5046324 C13.3222955,27.6032774 12.65,26.268459 12.65,24.7788725 C12.65,22.0643607 14.8826067,19.863814 17.6366667,19.863814 C19.5141633,19.863814 21.149319,20.8864997 22,22.3975223 C22.850681,20.8864997 24.4858367,19.863814 26.3633333,19.863814 C29.1173933,19.863814 31.35,22.0643607 31.35,24.7788725 C31.35,26.2360786 30.7066153,27.5451721 29.6845597,28.4452403 L21.9936385,36.863814 L14.3841311,28.5046324 Z" id="path-1"></path>
+    </defs>
+    <g id="HomeInsurance64" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="pictogram/Medium./Home64*">
+            <rect id="Bounding-Box" x="0" y="0" width="64" height="64"></rect>
+            <g transform="translate(10.000000, 9.000000)">
+                <polygon id="Home" stroke="#4F4C4D" stroke-width="2" fill="#FFFFFF" points="0 17 22 0 44 17 44 47 0 47"></polygon>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Combined-Shape" stroke="#4F4C4D" stroke-width="2" fill="#FFCC00" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

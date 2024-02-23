@@ -1,0 +1,25 @@
+.question-number {
+  width: 100%;
+  height: max-content;
+  background-color: #6c7975;
+  border-radius: 3px;
+  padding: 0 7px;
+  color: #fff;
+  margin: 6px 8px 0 0;
+}
+
+.question-des {
+  display: flex;
+  padding: 18;
+  flex-direction: row;
+}
+
+@media only screen and (max-width: 770px) {
+  .question-number {
+    width: 10%;
+    margin-left: 15px;
+  }
+  .question-des {
+    flex-direction: column;
+  }
+}

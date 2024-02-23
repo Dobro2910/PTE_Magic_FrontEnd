@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>ds_pictograms_ Life insurance</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="ds_pictograms_-Life-insurance" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ds_pictograms_lifeInsurance" transform="translate(8.000000, 8.000000)" fill-rule="nonzero" stroke="#4F4D4C" stroke-width="2">
+            <path d="M34.2857143,24 L48,24 C48,10.7451429 37.2548571,0 24,0 L24,13.7142857 C29.6802857,13.7142857 34.2857143,18.3197143 34.2857143,24 Z" id="Stroke-3" fill="#FFCC00"></path>
+            <path d="M13.7142857,24 C13.7142857,18.3197143 18.3197143,13.7142857 24,13.7142857 L24,0 C10.7451429,0 0,10.7451429 0,24 L13.7142857,24 Z" id="Stroke-7" fill="#FFFFFF"></path>
+            <path d="M24,34.2857143 C18.3197143,34.2857143 13.7142857,29.6802857 13.7142857,24 L0,24 C0,37.2548571 10.7451429,48 24,48 L24,34.2857143 Z" id="Stroke-11" fill="#FFCC00"></path>
+            <path d="M34.2857143,24 C34.2857143,29.6802857 29.6802857,34.2857143 24,34.2857143 L24,48 C37.2548571,48 48,37.2548571 48,24 L34.2857143,24 Z" id="Stroke-15" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve" width="512px" height="512px" class=""><g><circle style="fill:#FFD400;" cx="256" cy="256" r="256" data-original="#FFD400" class=""/><path style="fill:#F2E33C" d="M512,256c0-7.241-0.317-14.407-0.906-21.496L413,136.41l-240.406,19l-18.398-19L99,191.605l37,36.797  l-37,55.195l37,36.797L99,375.59l135.504,135.504C241.593,511.683,248.759,512,256,512C397.385,512,512,397.385,512,256z" data-original="#FF9F00" class="active-path" data-old_color="#FF9F00"/><g>
+	<path style="fill:#5A5A5A;" d="M172.594,136.41v55.195H413V136.41H172.594z" data-original="#5A5A5A" class=""/>
+	<path style="fill:#5A5A5A;" d="M99,136.41v55.195h55.195V136.41H99z" data-original="#5A5A5A" class=""/>
+</g><g>
+	<rect x="99" y="164.01" style="fill:#444444" width="55.2" height="27.598" data-original="#444444" class="" data-old_color="#444444"/>
+	<rect x="172.59" y="164.01" style="fill:#444444" width="240.41" height="27.598" data-original="#444444" class="" data-old_color="#444444"/>
+</g><g>
+	<path style="fill:#5A5A5A;" d="M172.594,228.402v55.195H413v-55.195L172.594,228.402L172.594,228.402z" data-original="#5A5A5A" class=""/>
+	<path style="fill:#5A5A5A;" d="M99,228.402v55.195h55.195v-55.195L99,228.402L99,228.402z" data-original="#5A5A5A" class=""/>
+</g><g>
+	<rect x="99" y="256" style="fill:#444444" width="55.2" height="27.598" data-original="#444444" class="" data-old_color="#444444"/>
+	<rect x="172.59" y="256" style="fill:#444444" width="240.41" height="27.598" data-original="#444444" class="" data-old_color="#444444"/>
+</g><g>
+	<path style="fill:#5A5A5A;" d="M172.594,320.395v55.195H413v-55.195H172.594z" data-original="#5A5A5A" class=""/>
+	<path style="fill:#5A5A5A;" d="M99,320.395v55.195h55.195v-55.195H99z" data-original="#5A5A5A" class=""/>
+</g><g>
+	<rect x="99" y="347.99" style="fill:#444444" width="55.2" height="27.598" data-original="#444444" class="" data-old_color="#444444"/>
+	<rect x="172.59" y="347.99" style="fill:#444444" width="240.41" height="27.598" data-original="#444444" class="" data-old_color="#444444"/>
+</g></g> </svg>

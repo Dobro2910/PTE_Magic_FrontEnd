@@ -1,0 +1,17 @@
+.nav-accordion {
+  //display: none;
+}
+
+.navbar-dropdown {
+  display: block;
+}
+
+.nav-menu {
+  //display: none;
+}
+
+@media screen and (max-width: 1200px) {
+  .navbar-dropdown {
+    display: none;
+  }
+}

@@ -1,0 +1,18 @@
+[
+    {
+        "id" : 1,
+        "link" : "https://cclmagic-data.s3-ap-southeast-2.amazonaws.com/banner1.jpg"
+    },
+    {
+        "id" : 2,
+        "link" : "https://cclmagic-data.s3-ap-southeast-2.amazonaws.com/banner2.jpg"
+    },
+    {
+        "id" : 3,
+        "link" : "https://cclmagic-data.s3-ap-southeast-2.amazonaws.com/banner3.jpg"
+    },
+    {
+        "id" : 4,
+        "link" : "https://cclmagic-data.s3-ap-southeast-2.amazonaws.com/banner4.jpg"
+    }
+]
